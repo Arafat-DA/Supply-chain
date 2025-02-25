@@ -15,5 +15,6 @@ Learnings:
 •	Button creation using bookmark
 
 Tool Used: Power BI
+
 My Analysis:
 There are some stores (Lotas Mart, Acclaimed store, cool blue) that are getting late delivery and they also do not get full order. As a result, these stores didn’t renew the deed. Company should take some initiative to bring back those customers. Also find the reasons why they are not getting on time delivery. Also which type of product that are not getting. It can easily determined by using slicer of the dashboard.
